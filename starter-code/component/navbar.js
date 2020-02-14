@@ -17,7 +17,7 @@ render () {
                 Login
               </button>
               <button class="button is-small is-success">
-                signup
+                Signup
               </button>
             </div>
           </nav>
