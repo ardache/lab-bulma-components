@@ -7,8 +7,8 @@ export default class App extends Component {
         return (
             <div>
                 <Nav/>
-                <FormField  label="Name"  type="text" placeholder="e.g Alex Smith"    />
-                <FormField  label="Email"  type="email" placeholder="e.g. alexsmith@gmail.com"    />
+                <FormField  label="Name"  type="text" placeholder="e.g Alex Smith"/>
+                <FormField  label="Email"  type="email" placeholder="e.g. alexsmith@gmail.com"/>
             </div>
         )
     }
